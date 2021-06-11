@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying Physics and Mathematics at NTNU (Norwegian Univeristy of Science and Technology)
-- 🌱 I’m currently learning numerical modelling, object oriented programming, chemistry and optics
-- 💬 Ask me about statistics, programming and Linux
+- 🔭 I’m currently studying Industrial Mathematics at NTNU (Norwegian Univeristy of Science and Technology)
+- 🌱 I’m currently learning numerical & stochastic modelling, Linear Methods and Algorithms
+- 💬 Ask me about mathematics, programming and Linux
   
 - 📫 How to reach me: kristian@kwill.no
